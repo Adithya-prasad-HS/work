@@ -133,4 +133,10 @@
     background-color: black;
     color: white;
 }
-
+.end fa-brands fa-instagram{
+    float:right;
+}
+.end p{
+    color: aliceblue;
+    text-align: center;
+}
